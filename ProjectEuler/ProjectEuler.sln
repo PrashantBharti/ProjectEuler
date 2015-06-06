@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LargeSum", "LargeSum\LargeS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestSequenceChain", "LongestSequenceChain\LongestSequenceChain.vcxproj", "{4C1D0443-4218-4CB7-A642-F12C99F9CD9A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LatticePaths", "LatticePaths\LatticePaths.vcxproj", "{84ADB6E4-5367-463E-B44B-7F1F3FCF0F42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{4C1D0443-4218-4CB7-A642-F12C99F9CD9A}.Debug|Win32.Build.0 = Debug|Win32
 		{4C1D0443-4218-4CB7-A642-F12C99F9CD9A}.Release|Win32.ActiveCfg = Release|Win32
 		{4C1D0443-4218-4CB7-A642-F12C99F9CD9A}.Release|Win32.Build.0 = Release|Win32
+		{84ADB6E4-5367-463E-B44B-7F1F3FCF0F42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84ADB6E4-5367-463E-B44B-7F1F3FCF0F42}.Debug|Win32.Build.0 = Debug|Win32
+		{84ADB6E4-5367-463E-B44B-7F1F3FCF0F42}.Release|Win32.ActiveCfg = Release|Win32
+		{84ADB6E4-5367-463E-B44B-7F1F3FCF0F42}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
