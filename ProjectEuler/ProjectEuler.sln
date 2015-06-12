@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LatticePaths", "LatticePath
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumDigitsOf2pow1000", "SumDigitsOf2pow1000\SumDigitsOf2pow1000.vcxproj", "{880591B6-6F61-4E9D-B8F1-3C88F63C0802}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberLettersCount", "NumberLettersCount\NumberLettersCount.vcxproj", "{CED694A6-BB72-49E3-B236-3DCF7133FD2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{880591B6-6F61-4E9D-B8F1-3C88F63C0802}.Debug|Win32.Build.0 = Debug|Win32
 		{880591B6-6F61-4E9D-B8F1-3C88F63C0802}.Release|Win32.ActiveCfg = Release|Win32
 		{880591B6-6F61-4E9D-B8F1-3C88F63C0802}.Release|Win32.Build.0 = Release|Win32
+		{CED694A6-BB72-49E3-B236-3DCF7133FD2D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CED694A6-BB72-49E3-B236-3DCF7133FD2D}.Debug|Win32.Build.0 = Debug|Win32
+		{CED694A6-BB72-49E3-B236-3DCF7133FD2D}.Release|Win32.ActiveCfg = Release|Win32
+		{CED694A6-BB72-49E3-B236-3DCF7133FD2D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
